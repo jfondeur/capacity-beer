@@ -767,6 +767,22 @@ video {
   background-image: url('/img/bg-white-paper.jpg');
 }
 
+.bg-\[url\(\'\.\/img\/bg-black-paper\.png\'\)\]{
+  background-image: url('./img/bg-black-paper.png');
+}
+
+.bg-\[url\(\'\.\/img\/bg-white-paper\.jpg\'\)\]{
+  background-image: url('./img/bg-white-paper.jpg');
+}
+
+.bg-\[url\(\'img\/bg-black-paper\.png\'\)\]{
+  background-image: url('img/bg-black-paper.png');
+}
+
+.bg-\[url\(\'img\/bg-white-paper\.jpg\'\)\]{
+  background-image: url('img/bg-white-paper.jpg');
+}
+
 .bg-cover{
   background-size: cover;
 }
