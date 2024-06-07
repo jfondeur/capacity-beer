@@ -43,7 +43,7 @@
         </div>
         <div class="text-center">
             <img loading="laxy" class="block mx-auto" src="./img/eagle.svg" alt="">
-            <p class="font-body uppercase mt-5">© 2023 capacity BREWING company llc.</p>
+            <p class="font-body uppercase mt-5">© <?php echo date("Y");?> capacity BREWING company llc.</p>
         </div>
     </section>
     <script async type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=Xcjqi7"></script>
